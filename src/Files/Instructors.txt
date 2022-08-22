@@ -1,0 +1,6 @@
+INS-BCS-0 Nabin Tamang BCS nabin@java.edu.np mods1-1 mods1-2 mods1-3 mods1-4
+INS-BBA-1 Rusha Lopchan BBA rusha@java.edu.np mods2-1 mods2-2 mods2-3 mods2-4
+INS-BBA-2 Sohail Khan BBA sohail@java.edu.np mods3-1 mods3-2 mods3-3 mods3-4
+INS-BBA-3 Rushmita Shakya BBA rushmita@java.edu.np mod9 mod10 mod13 mod20
+INS-BBA-4 Purna Rijal BBA purna@java.edu.np mod1 mod8 mod11 null
+INS-BCS-5 Rahul Prasai BCS rahul@java.edu.np CoS1 CSo6 CSo13 CoS18

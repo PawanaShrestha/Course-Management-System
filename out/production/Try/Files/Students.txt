@@ -1,0 +1,7 @@
+STD-BBA-0 Pawana Shrestha pawana@java.edu.np BBA 5 4
+STD-BCS-1 Tanuja Shrestha tanuja@java.edu.np BCS 4 2
+STD-BCS-2 Namita Yogi namita@java.edu.np BCS 4 1
+STD-BBA-3 Namrata Shrestha namrata@java.edu.np BBA 5 3
+STD-BCS-4 Rohan Adhikari rohan@java.edu.np BCS 5 4
+STD-BBA-5 Prasun Tamang prasun@java.edu.np BBA 4 2
+STD-BCS-6 Prapti Lamsal prapti@java.edu.np BCS 4 2

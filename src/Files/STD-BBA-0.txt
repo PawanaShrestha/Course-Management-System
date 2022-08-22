@@ -1,0 +1,20 @@
+STD-BBA-0
+Pawana
+Shrestha
+pawana@java.edu.np
+BBA
+5
+4
+CS13
+mod 13
+89
+CS14
+mod 14
+90
+CS15
+mod 15
+51
+CS16
+mod 16
+69
+Pass
